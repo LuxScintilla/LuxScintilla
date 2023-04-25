@@ -35,5 +35,5 @@
 <details>
  <summary><h3>My Coding Journey</h3></summary>
    While finishing my certificates with CompTIA (A+, Net+ Sec+), I stumbled upon the Odin Project and fell in love with coding all over again.
-   I have always dabbled in mostly HTML and CSS for years, but never learned it properly. So in January 2023 I started my journey with the Odin Project, and dove in head first, motivated, and fulltime ... well ... all my free time I had left after taking care of my 4 year old on my own. I don't know what the future holds, but what I do know is that I will learn as much as I can to achieve my goals!
+   I have always dabbled in mostly HTML and CSS for years, but never learned it properly. So in January 2023 I started my journey with the Odin Project, and dove in head first, motivated, and fulltime ... well ... all my free time I had left after taking care of my 4 year old son by myself. I don't know what the future holds, but what I do know is that I will learn as much as I can to achieve my goals!
    
