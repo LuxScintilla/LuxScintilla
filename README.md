@@ -1,4 +1,4 @@
-![Header](./linkedin-github-banner.jpg)
+![Header](./linkedin-github-banner-2024.jpg)
 
 # Ekaterina Furman
 
