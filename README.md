@@ -1,5 +1,3 @@
-![Header](./linkedin-github-banner-2024.jpg)
-
 # Ekaterina Furman
 
 **`Front End Developer (self-taught, self-directed, motivated, creative, curious)`**
