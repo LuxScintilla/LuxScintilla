@@ -11,18 +11,14 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+<img align="left" alt="vitejs" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="parcel" width="30px" style="padding-right:10px;" src="https://parceljs.org/assets/og.png" />
-<img align="left" alt="11ty" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" />
+
 <br />
 
 #
 
 ### Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=luxscintilla&show_icons=true&theme=codeSTACKr)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxscintilla&layout=compact)](https://github.com/luxscintilla/github-readme-stats)
 
 <p align="left">
       <a href="youtube.com/channel/UCNfvgC2jQP6RtLwOB8unofg">
